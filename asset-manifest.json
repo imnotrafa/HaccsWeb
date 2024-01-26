@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/HaccsWeb/static/css/main.c8224a11.css",
+    "main.js": "/HaccsWeb/static/js/main.33d0574f.js",
+    "static/media/Jason.jpg": "/HaccsWeb/static/media/Jason.c2a9f6002a4843292fc5.jpg",
+    "static/media/InvolvementFair.jpg": "/HaccsWeb/static/media/InvolvementFair.30117b6d027de2c33066.jpg",
+    "static/media/DanielWin.JPG": "/HaccsWeb/static/media/DanielWin.c46081372142b28de3d6.JPG",
+    "static/media/firstGBMFall.jpg": "/HaccsWeb/static/media/firstGBMFall.c61d7d4ee0f1d116bf03.jpg",
+    "static/media/Gabriel.jpg": "/HaccsWeb/static/media/Gabriel.2bb57af15ce2c1eaacdc.jpg",
+    "static/media/Lim_Pres.jpg": "/HaccsWeb/static/media/Lim_Pres.a629554d75eaf456db17.jpg",
+    "static/media/Nickole.jpg": "/HaccsWeb/static/media/Nickole.5708df81157cd5fc6f57.jpg",
+    "static/media/njit.png": "/HaccsWeb/static/media/njit.ac88ee8be07ddc670ce0.png",
+    "static/media/Rafael.jpg": "/HaccsWeb/static/media/Rafael.d65ca46c8cb5bd557ccc.jpg",
+    "static/media/Michelle.jpg": "/HaccsWeb/static/media/Michelle.a4991972d2e64c1ef8b4.jpg",
+    "static/media/Leslie.jpg": "/HaccsWeb/static/media/Leslie.a33cec161f2e70d37f6d.jpg",
+    "static/media/Angel.jpg": "/HaccsWeb/static/media/Angel.89033f3223de8ec72a77.jpg",
+    "static/media/round_HACCS_logo.png": "/HaccsWeb/static/media/round_HACCS_logo.eb4f0d4f9ce0f937cb8c.png",
+    "static/media/mission.png": "/HaccsWeb/static/media/mission.f06a701de89acb4ae978.png",
+    "static/media/vision.png": "/HaccsWeb/static/media/vision.e7670d41e8057630c747.png",
+    "index.html": "/HaccsWeb/index.html",
+    "main.c8224a11.css.map": "/HaccsWeb/static/css/main.c8224a11.css.map",
+    "main.33d0574f.js.map": "/HaccsWeb/static/js/main.33d0574f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8224a11.css",
+    "static/js/main.33d0574f.js"
+  ]
+}
